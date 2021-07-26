@@ -1,6 +1,6 @@
 # Mathematics and Number Theory Algorithms
 
-Mathematics and Number Theory Algorithms in Java Language
+**_Mathematics and Number Theory Algorithms in Java Language_**
 
 ## Problems:
 
